@@ -18,7 +18,7 @@ This project investigates three major model famiilies:
 - **Recurrent Neural Networks (LSTMs)** for temporal modeling
 - **Transformer-based architectures** for long-range musical structure via attention
 
-The fial outcome includes a research-style comparative analysis and an  interactive demo tool that allows users to upload audio and receive predictions.
+The final outcome includes a research-style comparative analysis and an  interactive demo tool that allows users to upload audio and receive predictions.
 
 ---
 
