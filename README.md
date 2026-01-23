@@ -115,7 +115,7 @@ pip install -r requirements.txt
 
 # Timeline
 This project follows a 16-week CSCI 198 timeline, including:
-- Repository & enviroment setup
+- Repository & environment setup
 - Dataset preprocessing
 - Model development & training
 - Evalution & error analysis
