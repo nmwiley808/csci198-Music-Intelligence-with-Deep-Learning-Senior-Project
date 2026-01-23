@@ -92,7 +92,7 @@ csci198-music-intelligence/
 
 ---
 
-## Enviroment Setup
+## Environment Setup
 
 ### Python
 - Python 3.9+ recommended
@@ -118,7 +118,7 @@ This project follows a 16-week CSCI 198 timeline, including:
 - Repository & environment setup
 - Dataset preprocessing
 - Model development & training
-- Evalution & error analysis
+- Evaluation & error analysis
 - Demo application development
 - Final report & presentation
 
@@ -126,7 +126,7 @@ This project follows a 16-week CSCI 198 timeline, including:
 
 # Deliverables
 - Fully documented GitHub repository
-- Trained models and evalutaion results
+- Trained models and evaluation results
 - Interactive demo application
 - Final research report
 - Department-approved presentation
