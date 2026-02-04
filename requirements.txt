@@ -6,7 +6,7 @@ soundfile
 
 numpy
 pandas
-sckikit-learn
+scikit-learn
 
 matplotlib
 
