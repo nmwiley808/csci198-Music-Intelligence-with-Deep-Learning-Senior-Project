@@ -14,7 +14,7 @@ Department of Computer Sciecne, California State University, Fresno
 This project explores **music intelligence using deep learning**, focusing on automated music classification tasks such as **genre, mood, and instrumentation recognition**. The goal is to design, train, and compare multiple deep learning architectures under a unified experiment framework, and to evaluate their performance on widely used public music datasets.
 
 This project investigates three major model famiilies:
-- **Conbolutional Neural Networks (CNNs)** for spectrogram-based learning
+- **Convolutional Neural Networks (CNNs)** for spectrogram-based learning
 - **Recurrent Neural Networks (LSTMs)** for temporal modeling
 - **Transformer-based architectures** for long-range musical structure via attention
 
