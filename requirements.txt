@@ -1,1 +1,19 @@
+torch
+torchaudio
 
+librosa
+soundfile
+
+numpy
+pandas
+sckikit-learn
+
+matplotlib
+
+datasets
+transformers
+
+tqdm
+pyyaml
+
+streamlit
