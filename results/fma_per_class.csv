@@ -1,0 +1,9 @@
+,CNN,BiLSTM,Transformer
+Electronic,0.81,0.37,0.54
+Experimental,0.34,0.14,0.36
+Folk,0.67,0.63,0.61
+Hip-Hop,0.76,0.57,0.65
+Instrumental,0.57,0.51,0.61
+International,0.61,0.41,0.6
+Pop,0.28,0.07,0.25
+Rock,0.68,0.52,0.57

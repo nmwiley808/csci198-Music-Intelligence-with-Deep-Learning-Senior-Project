@@ -1,0 +1,10 @@
+Model,Dataset,Metric,Score,Training_Time_s
+CNN,GTZAN,Accuracy,0.775,193.37
+CNN,FMA Small,Accuracy,0.59,808.52
+CNN,MagnaTagATune,AUC,0.8786,2547.1
+BiLSTM,GTZAN,Accuracy,0.485,67.4
+BiLSTM,FMA Small,Accuracy,0.4025,303.52
+BiLSTM,MagnaTagATune,AUC,0.5003,7299.96
+Transformer,GTZAN,Accuracy,0.61,160.94
+Transformer,FMA Small,Accuracy,0.5256,681.01
+Transformer,MagnaTagATune,AUC,0.8715,2096.47
